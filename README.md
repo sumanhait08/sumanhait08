@@ -1,16 +1,24 @@
-## Hi there 👋
+# 💻 Welcome to My GitHub Profile!  
 
-<!--
-**sumanhait08/sumanhait08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
+Hi there! I'm a passionate developer with expertise in data engineering, analytics, and full-stack development. I enjoy working with large-scale data systems and building efficient, scalable solutions.  
 
-Here are some ideas to get you started:
+## 🔧 Skills & Technologies  
+### 🐍 Programming Languages  
+- Python, SQL, PySpark  
+- C, C++, R, JavaScript  
+- HTML, CSS  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud & Big Data (AWS)  
+- Athena, Glue, S3  
+- Kinesis, Lambda, IAM  
+
+## 📈 What I Work On  
+I specialize in:  
+✔️ Data Engineering & ETL Pipelines  
+✔️ Big Data Processing & Analytics  
+✔️ Cloud-based Solutions & Automation  
+✔️ Full-stack Web Development  
+
+## 📫 Connect With Me  
+Feel free to check out my repositories, contribute, or reach out for collaboration!  
